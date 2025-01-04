@@ -1,6 +1,12 @@
-## Hi there, I'm [Tanzil!]([https://mokshitjain.co](https://tanzil7890.github.io/)) 👋
+## Hi there, I'm [Tanzil!](https://tanzil7890.github.io/) 👋
 - 👀 I’m interested in AI, MLOps, LLM, Web Programming
 - 💞️ I’m looking to collaborate on Web Apps, Python Projects, AI project
+- Developed developer tools or packages to improve development process:
+  - [TypeA11y](https://github.com/tanzil7890/TypeA11y): TypeA11y a great tool for ensuring web accessibility
+  - [RailsClock](https://github.com/tanzil7890/RailsClock): A Rails engine for recording, replaying, and debugging HTTP requests with their database interactions in real-time.
+- Currently working on
+  - [PolyFlow](https://github.com/tanzil7890/polyflow): is a Pandas-like framework that combines LLMs and vector embeddings for intuitive semantic data processing.
+  - [MarkovRecorder](https://github.com/MarkovRecorder): AI-based Effortless Screen Recording and Smart Editing Tool.
 - 📫 How to reach me idrisitanzil@gmail.com
 
 ## Languages and Tools:
