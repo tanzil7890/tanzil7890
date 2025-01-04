@@ -1,8 +1,38 @@
 - 👋 Hi, I’m @tanzil7890
-- 👀 I’m interested in development and competitive proramming
-- 🌱 I’m currently learning Reacti Native
+- 👀 I’m interested in AI, MLOps, LLM, Web Programming
 - 💞️ I’m looking to collaborate on Web Apps, Python Projects, AI project
-- 📫 How to reach me ryandnot@gmail.com
+- 📫 How to reach me idrisitanzil@gmail.com
+
+## Languages and Tools:
+
+<code><img height="20" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
+<code><img height="20" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png"/></code>
+<code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/assets/mongodb.svg"></code>
+
+## AI and MLOps:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"/></code>
+<code><img height="20" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg"/></code>
+
+
 
 <!---
 tanzil7890/tanzil7890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
