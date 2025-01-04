@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanzil7890
+## Hi there, I'm [Tanzil!]([https://mokshitjain.co](https://tanzil7890.github.io/)) 👋
 - 👀 I’m interested in AI, MLOps, LLM, Web Programming
 - 💞️ I’m looking to collaborate on Web Apps, Python Projects, AI project
 - 📫 How to reach me idrisitanzil@gmail.com
