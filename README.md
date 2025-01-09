@@ -8,7 +8,7 @@
   - [DocGen: web app](https://github.com/tanzil7890/DocGen): Transform any document into a dynamic template and generate customized versions in seconds, saving you hours of manual work.
   - [HoloQuant](https://github.com/tanzil7890/HoloQuant): is a comprehensive quantitative analytics platform designed to provide insights into federal contract data and spending patterns for investment analysis and risk management. <be>
 ###    Currently working on
-  - [PolyFlow](https://github.com/tanzil7890/polyflow](https://github.com/tanzil7890/polyflow-about): is a Pandas-like framework that combines LLMs and vector embeddings for intuitive semantic data processing.
+  - [PolyFlow](https://github.com/tanzil7890/polyflow-about): is a Pandas-like framework that combines LLMs and vector embeddings for intuitive semantic data processing.
   - [MarkovRecorder](https://github.com/MarkovRecorder): AI-based Effortless Screen Recording and Smart Editing Tool.
 - 📫 How to reach me idrisitanzil@gmail.com
 
