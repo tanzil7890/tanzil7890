@@ -1,5 +1,5 @@
 ## Hi there, I'm [Tanzil!](https://tanzil7890.github.io/) 👋
-- 👀 I’m interested in AI, MLOps, LLM, Web Programming
+- 👀 I’m interested in Compiler, AI, MLOps, LLM, Web Programming
 - 💞️ I’m looking to collaborate on Web Apps, Python Projects, AI project
 - Developed developer tools or packages to improve development process:
 ### - Developed
