@@ -3,10 +3,15 @@
 - 💞️ I’m looking to collaborate on Web Apps, Python Projects, AI project
 - Developed developer tools or packages to improve development process:
 ### - Developed
-  - [TypeA11y](https://github.com/tanzil7890/TypeA11y): TypeA11y a great tool for ensuring web accessibility
+  - [HALO-CI](https://github.com/tanzil7890/HALO-CI): A High-performance Compiler Accelerator for LLM and Linear Algebra Operations. 
+  - [QNV-Query Nexus Vault]: A powerful middleware package that provides a unified interface for executing SQL, Cypher (Neo4j), and vector similarity queries.
+  - [Kora AI]: Create and deploy Voice AI Agents qualify leads, boost sales, automate customer support, and streamline recruitment and hiring.
+  - [Avatar App]: Cursor for storytelling - instantly turn your sketches into animated 3D worlds with AI.  
   - [RailsClock](https://github.com/tanzil7890/RailsClock): A Rails engine for recording, replaying, and debugging HTTP requests with their database interactions in real-time.
+  - [TypeA11y](https://github.com/tanzil7890/TypeA11y): TypeA11y a great tool for ensuring web accessibility
   - [PakerKit: web app](https://github.com/tanzil7890/PakerKit): Transform any document into a dynamic template and generate customized versions in seconds, saving you hours of manual work.
-  - [HoloQuant](https://github.com/tanzil7890/HoloQuant): is a comprehensive quantitative analytics platform designed to provide insights into federal contract data and spending patterns for investment analysis and risk management. <be>
+  - [HoloQuant](https://github.com/tanzil7890/HoloQuant): is a comprehensive quantitative analytics platform designed to provide insights into federal contract data and spending patterns for investment analysis and risk management.
+  
 ###    Currently working on
   - [PolyFlow lite](https://github.com/tanzil7890/polyflow-about): is a dataframe library composed of Pandas that combines LLMs and vector embeddings for intuitive semantic data processing.
   - [MarkovRecorder](https://github.com/MarkovRecorder): AI-based Effortless Screen Recording and Smart Editing Tool.
