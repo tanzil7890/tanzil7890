@@ -4,8 +4,8 @@
 - Developed developer tools or packages to improve development process:
 ### - Developed
   - [HALO-CI](https://github.com/tanzil7890/HALO-CI): A High-performance Compiler Accelerator for LLM and Linear Algebra Operations. 
-  - [QNV-Query Nexus Vault]: A powerful middleware package that provides a unified interface for executing SQL, Cypher (Neo4j), and vector similarity queries.
-  - [Kora AI]: Create and deploy Voice AI Agents qualify leads, boost sales, automate customer support, and streamline recruitment and hiring.
+  - [QNV-Query Nexus Vault](#): A powerful middleware package that provides a unified interface for executing SQL, Cypher (Neo4j), and vector similarity queries.
+  - [Kora AI](#): Create and deploy Voice AI Agents qualify leads, boost sales, automate customer support, and streamline recruitment and hiring.
   - [Avatar App]: Cursor for storytelling - instantly turn your sketches into animated 3D worlds with AI.  
   - [RailsClock](https://github.com/tanzil7890/RailsClock): A Rails engine for recording, replaying, and debugging HTTP requests with their database interactions in real-time.
   - [TypeA11y](https://github.com/tanzil7890/TypeA11y): TypeA11y a great tool for ensuring web accessibility
