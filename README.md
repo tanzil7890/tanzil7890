@@ -3,7 +3,9 @@
 - 💞️ I’m looking to collaborate on Web Apps, Python Projects, AI project
 - Developed developer tools or packages to improve development process:
 ### - Developed
-  - [HALO-CI](https://github.com/tanzil7890/HALO-CI): A High-performance Compiler Accelerator for LLM and Linear Algebra Operations. 
+  - [HALO-CI](https://github.com/tanzil7890/HALO-CI): A High-performance Compiler Accelerator for LLM and Linear Algebra Operations.
+  - [PolyFlow-dev-ai](http://github.com/tanzil7890/polyflow-dev-ai) : LLM-Powered Data Processing Framework.
+  - [SynergyML](https://github.com/tanzil7890/synergyML):  Python framework for multimodal analysis, specializing in synchronized video-audio processing, emotion detection, and LLM-enhanced analysis.
   - [QNV-Query Nexus Vault](https://github.com/Outhad-Search/QNV): A powerful middleware package that provides a unified interface for executing SQL, Cypher (Neo4j), and vector similarity queries.
   - [Kora AI](https://github.com/tanzil7890/kora-ai): Create and deploy Voice AI Agents qualify leads, boost sales, automate customer support, and streamline recruitment and hiring.
   - [Avatar App](https://github.com/tanzil7890/AvatarApp): Cursor for storytelling - instantly turn your sketches into animated 3D worlds with AI.  
