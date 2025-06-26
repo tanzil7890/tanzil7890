@@ -4,6 +4,7 @@
 - Developed developer tools or packages to improve development process:
 ### - Developed
   - [IonicTrace](https://github.com/tanzil7890/IonicTrace): Sub-microsecond tracing overhead for high-frequency trading and performance-critical applications
+  - [High Frequency FX-Arbitrage Engine](https://github.com/tanzil7890/High-Frequency-FX-Arbitrage-Engine): Ultra-low latency FX arbitrage engine achieving sub-20μs tick-to-trade latency with 16 liquidity providers
   - [HALO-CI](https://github.com/tanzil7890/HALO-CI): A High-performance Compiler Accelerator for LLM and Linear Algebra Operations.
   - [PolyFlow-dev-ai](http://github.com/tanzil7890/polyflow-dev-ai) : LLM-Powered Data Processing Framework.
   - [SynergyML](https://github.com/tanzil7890/synergyML):  Python framework for multimodal analysis, specializing in synchronized video-audio processing, emotion detection, and LLM-enhanced analysis.
