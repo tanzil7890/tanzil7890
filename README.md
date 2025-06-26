@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on Web Apps, Python Projects, AI project
 - Developed developer tools or packages to improve development process:
 ### - Developed
+  - [IonicTrace](https://github.com/tanzil7890/IonicTrace): Sub-microsecond tracing overhead for high-frequency trading and performance-critical applications
   - [HALO-CI](https://github.com/tanzil7890/HALO-CI): A High-performance Compiler Accelerator for LLM and Linear Algebra Operations.
   - [PolyFlow-dev-ai](http://github.com/tanzil7890/polyflow-dev-ai) : LLM-Powered Data Processing Framework.
   - [SynergyML](https://github.com/tanzil7890/synergyML):  Python framework for multimodal analysis, specializing in synchronized video-audio processing, emotion detection, and LLM-enhanced analysis.
